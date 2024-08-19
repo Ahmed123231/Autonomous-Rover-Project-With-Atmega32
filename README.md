@@ -1,5 +1,5 @@
 # Autonomous Rover Project With Atmega32
- Object Avoidance 6 Wheel Rover with atmega32 and UltraSonic, IR Sensor,LCD,DC Motors 
+ Object Avoidance 6 Wheel Rover with ATmega32 and UltraSonic Sensor, IR Sensor,1 6x2 LCD, DC Motors , Bluetooth Module
 ![image](https://github.com/user-attachments/assets/a2eaed76-046d-4d15-8ef1-53430f32d740)
 ![photo_2024-08-19_16-37-12](https://github.com/user-attachments/assets/9726a8b7-de7b-41b7-a8c3-57dd1b992ffa)
 ![photo_2024-08-19_16-37-02](https://github.com/user-attachments/assets/895f18d7-a128-4e09-b094-e4b8a534dda6)
